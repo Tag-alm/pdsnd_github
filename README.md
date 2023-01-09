@@ -1,17 +1,20 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+## Introduction
+This is the first project in udacity **Data Analysis Professional Track** which we study how to use python in data analysis.
 
-### Date created
-Include the date you created this project and README file.
+## Overview
+In this project, we explore data related to :bike: bike share systems for three major cities in the United States Chicago, New York City, and Washington.
+and provide an interactive experience in the terminal to help answering intersting questions about it by computing descriptive statistics.
+![](images/divvy.jpg)
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+## Files
+As you can find in this repository 3 csv files which include a cleaned version of bike share data for 3 cities:
+* Chicago.
+* New York City.
+* Washington.
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+#### Find me in social media
+
+[![Instagram](https://img.icons8.com/ios/30/000000/instagram.png "Instagram")](https://instagram.com/ab_23402?igshid=YmMyMTA2M2Y=/)
 
